@@ -1,0 +1,3 @@
+LIBRARY options.pyd
+EXPORTS
+PyInit_options

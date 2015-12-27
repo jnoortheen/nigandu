@@ -1,0 +1,3 @@
+LIBRARY helpform.pyd
+EXPORTS
+PyInit_helpform
