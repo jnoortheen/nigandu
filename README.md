@@ -1,2 +1,2 @@
 # nigandu
-English to Tamil dictionary with Python and PySide
+A cross-platform desktop dictionary application for Tamil to English.
