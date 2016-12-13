@@ -1,3 +1,0 @@
-LIBRARY managebkm.pyd
-EXPORTS
-PyInit_managebkm
